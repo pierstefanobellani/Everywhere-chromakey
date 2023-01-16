@@ -1,0 +1,12 @@
+http://www.unity3d-france.com/unity/phpBB3/viewtopic.php?t=8011
+https://www.youtube.com/watch?v=zCkC5e_Pkz4
+https://answers.unity.com/questions/273680/transparent-cutout-shader.html
+https://www.youtube.com/watch?v=Fr9H-r_W1qs
+https://www.youtube.com/watch?v=Nbvqi8cfnrc
+https://answers.unity.com/questions/799616/unity-46-beta-19-how-to-convert-from-world-space-t.html?_ga=2.5022131.1800829834.1590509596-620272969.1590509596
+https://forum.unity.com/threads/mouse-position-for-screen-space-camera.294458/
+https://forum.unity.com/threads/how-do-i-get-the-texture-coordinates-of-an-image-clicked-on.290886/
+https://www.youtube.com/watch?v=Vh_XkNwThg4
+https://www.youtube.com/watch?v=mh5oL3AXEEk
+https://github.com/Electronic-Brain/SmartExplorer
+https://www.youtube.com/watch?v=KG2aq_CY7pU
